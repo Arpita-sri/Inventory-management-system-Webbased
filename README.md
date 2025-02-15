@@ -9,4 +9,4 @@ This repository contains the source code for a web-based inventory management sy
 - jQuery
 
 
-Link of the github repository- https://github.com/Arpita-sri/Inventory-management-system-Webbased
+Link to the github repository- https://github.com/Arpita-sri/Inventory-management-system-Webbased
